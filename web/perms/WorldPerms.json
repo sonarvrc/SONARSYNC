@@ -1,0 +1,41 @@
+{
+	"WorldPermissionLevels":
+	{
+		"Admin":
+		[
+			"Llamahat",
+            "subdefense",
+            "MontyIO",
+            "Arkui",
+            "magictwin"
+		],
+		"Staff":
+		[
+			
+		],
+		"DJ":
+		[
+
+		],
+		"Visual":
+		[
+
+		],
+		"Dancer":
+		[
+            
+		],
+		"Media":
+		[
+
+		],
+		"Supporter":
+		[
+
+		],
+		"Friend":
+		[
+
+		]
+	}
+}
