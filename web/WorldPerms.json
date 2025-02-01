@@ -1,41 +1,20 @@
 {
-	"WorldPermissionLevels":
-	{
-		"Admin":
-		[
+	"WorldPermissionLevels": {
+		"Admin": [
 			"Llamahat",
-            "subdefense",
-            "MontyIO",
-            "Arkui",
-            "magictwin"
+			"subdefense",
+			"MontyIO",
+			"Arkui",
+			"magictwin"
 		],
-		"Staff":
-		[
-			
-		],
-		"DJ":
-		[
-
-		],
-		"Visual":
-		[
-
-		],
-		"Dancer":
-		[
-            
-		],
-		"Media":
-		[
-
-		],
-		"Supporter":
-		[
-
-		],
-		"Friend":
-		[
-
-		]
+		"Staff": [],
+		"DJ": [],
+		"Visuals": [],
+		"Dancer": [],
+		"Media": [],
+		"Supporter-Tier1": [],
+		"Supporter-Tier2": [],
+		"Supporter-Tier3": [],
+		"Friend": []
 	}
 }
