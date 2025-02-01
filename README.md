@@ -7,4 +7,4 @@ https://github.com/vesturo/vrc-image-deployer
 https://github.com/vrchat-community/examples-image-loading
 
 # What is in this repo
-The [World Permission File](repo/web/WorldPerms.json)
+The [World Permission File](web/WorldPerms.json)
