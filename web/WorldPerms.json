@@ -1,5 +1,5 @@
 {
-	"WorldPermissionLevels": {
+	"WorldPerms": {
 		"Admin": [
 			"Llamahat",
 			"subdefense",
@@ -9,12 +9,10 @@
 		],
 		"Staff": [],
 		"DJ": [],
-		"Visuals": [],
+		"AV": [],
 		"Dancer": [],
-		"Media": [],
 		"Supporter-Tier1": ["TestUser1"],
 		"Supporter-Tier2": ["TestUser2"],
-		"Supporter-Tier3": ["TestUSer3"],
-		"Friend": []
+		"Supporter-Tier3": ["TestUSer3"]
 	}
 }
