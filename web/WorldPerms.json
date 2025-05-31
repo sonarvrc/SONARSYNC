@@ -20,7 +20,9 @@
 		"AV": [],
 		"Dancer": [],
 		"Supporter-Tier1": [],
-		"Supporter-Tier2": [],
+		"Supporter-Tier2": [
+			"Chantaro"
+		],
 		"Supporter-Tier3": []
 	}
 }
