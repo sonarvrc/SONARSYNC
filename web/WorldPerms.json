@@ -1,4 +1,4 @@
-{
+{https://github.com/sonarvrc/SONARSYNC/blob/main/web/WorldPerms.json
 	"WorldPerms": {
 		"Admin": [
 			"Llamahat",
@@ -21,7 +21,7 @@
 		"Dancer": [],
 		"Supporter-Tier1": [
 			"Lightning",
-			"Christian"
+			"Creideiki"
 		],
 		"Supporter-Tier2": [
 			"Chantaro"
