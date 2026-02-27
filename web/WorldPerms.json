@@ -13,9 +13,15 @@
 			"barror1",
 			"PixelDoesStuff"
 		],
-		"DJ": [],
-		"AV": [],
-		"Dancer": [],
+		"DJ": [
+			
+		],
+		"AV": [
+			"Classyham"
+		],
+		"Dancer": [
+			
+		],
 		"Supporter-Tier1": [
 			"Lightning",
 			"Creideiki"
@@ -23,6 +29,11 @@
 		"Supporter-Tier2": [
 			"Chantaro"
 		],
-		"Supporter-Tier3": []
+		"Supporter-Tier3": [
+			
+		],
+		"BOT": [
+			"_SERENCAM"
+		]
 	}
 }
