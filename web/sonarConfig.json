@@ -136,7 +136,7 @@
             }
         },
         "imageLoader": {
-            "posterURL": 1,
+            "posterURL": 0,
             "staffGraffitiURL": 1
         }
     }
