@@ -25,7 +25,9 @@
         "dj": [],
         "dancer": [],
         "supporter": {
-            "1": [],
+            "1": [
+                "TestSupporter"
+            ],
             "2": [
                 "Chantaro"
             ],
