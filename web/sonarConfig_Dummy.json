@@ -22,7 +22,9 @@
             "Silverplushie",
             "pixelmeows"
         ],
-        "dj": [],
+        "dj": [
+            "TestBotDJ"
+        ],
         "dancer": [],
         "supporter": {
             "1": [],
@@ -139,12 +141,10 @@
             "posterURL": 1,
             "staffGraffitiURL": 0
         },
-
         "vodRecorder": {
             "botDisplayName": "LlamahatBot",
             "active": false
         },
-        
         "dataCollector": {
             "botDisplayName": "LlamahatBot",
             "active": false
