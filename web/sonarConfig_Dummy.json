@@ -25,9 +25,7 @@
         "dj": [
             "kartoffel"
         ],
-        "dancer": [
-            "TestDancer"
-        ],
+        "dancer": [],
         "supporter": {
             "1": [
                 "tomate"
