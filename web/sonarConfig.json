@@ -141,11 +141,13 @@
         },
 
         "vodRecorder": {
-            "botDisplayName": "LlamahatBot"
+            "botDisplayName": "LlamahatBot",
+            "active": false
         },
         
         "dataCollector": {
-            "botDisplayName": "LlamahatBot"
+            "botDisplayName": "LlamahatBot",
+            "active": false
         }
     }
 }
