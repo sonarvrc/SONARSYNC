@@ -138,6 +138,14 @@
         "imageLoader": {
             "posterURL": 1,
             "staffGraffitiURL": 0
+        },
+
+        "vodRecorder": {
+            "botDisplayName": "LlamahatBot"
+        },
+        
+        "dataCollector": {
+            "botDisplayName": "LlamahatBot"
         }
     }
 }
