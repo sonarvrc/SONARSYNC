@@ -1,0 +1,153 @@
+{
+    "accessConfig": {
+        "admin": [
+            "Llamahat",
+            "MontyIO",
+            "magictwin",
+            "Mitsync"
+        ],
+        "staff": [
+            "barror1",
+            "TheSilverFoxx",
+            "Mia~~ ღ",
+            "AussieDax",
+            "Schun_justschun",
+            "PixelDoesStuff",
+            "Riksaah",
+            "Random Memories",
+            "Regar512",
+            "simplehowl1",
+            "Daxan",
+            "Shrooky",
+            "Silverplushie",
+            "pixelmeows"
+        ],
+        "dj": [],
+        "dancer": [],
+        "supporter": {
+            "1": [],
+            "2": [
+                "Chantaro"
+            ],
+            "3": []
+        },
+        "bot": [
+            "_SERENCAM",
+            "LlamahatBot"
+        ]
+    },
+    "worldConfig": {
+        "worlds": {
+            "underpass": {
+                "name": "Underpass",
+                "description": ""
+            },
+            "underpass2.0": {
+                "name": "Underpass 2.0",
+                "description": ""
+            },
+            "azimuth": {
+                "name": "Azimuth",
+                "description": ""
+            },
+            "donkkraft": {
+                "name": "Donkkraft",
+                "description": ""
+            },
+            "junktion": {
+                "name": "Junktion",
+                "description": ""
+            },
+            "apartment": {
+                "name": "Apartment",
+                "description": ""
+            },
+            "centrifuge": {
+                "name": "Centrifuge",
+                "description": ""
+            },
+            "dockhead": {
+                "name": "Dockhead",
+                "description": "",
+                "venues": {
+                    "courtyard": {
+                        "name": "Courtyard",
+                        "active": true
+                    },
+                    "warehouse": {
+                        "name": "Warehouse",
+                        "active": false
+                    },
+                    "arches": {
+                        "name": "Arches",
+                        "active": false
+                    }
+                }
+            },
+            "spillway": {
+                "name": "Spillway",
+                "description": ""
+            },
+            "kickLab": {
+                "name": "Kick Lab",
+                "description": ""
+            },
+            "pipe": {
+                "name": "Pipe",
+                "description": ""
+            },
+            "vault": {
+                "name": "Vault",
+                "description": ""
+            },
+            "homeGala": {
+                "name": "Home Gala",
+                "description": ""
+            },
+            "disconnect": {
+                "name": "Disconnect",
+                "description": ""
+            },
+            "studio": {
+                "name": "Studio",
+                "description": ""
+            },
+            "facility": {
+                "name": "Facility",
+                "description": "",
+                "venues": {
+                    "main": {
+                        "name": "Network",
+                        "active": true
+                    },
+                    "array": {
+                        "name": "Array",
+                        "active": false
+                    },
+                    "storage": {
+                        "name": "Storage",
+                        "active": false
+                    }
+                }
+            },
+            "glacier": {
+                "name": "Glacier",
+                "description": ""
+            }
+        },
+        "imageLoader": {
+            "posterURL": 1,
+            "staffGraffitiURL": 0
+        },
+
+        "vodRecorder": {
+            "botDisplayName": "LlamahatBot",
+            "active": false
+        },
+        
+        "dataCollector": {
+            "botDisplayName": "LlamahatBot",
+            "active": false
+        }
+    }
+}
